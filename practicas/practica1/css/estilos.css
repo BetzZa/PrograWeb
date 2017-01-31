@@ -1,0 +1,19 @@
+/*Cascada de estilos*/
+h1{
+  font-size: 40px;
+  color: red;
+}
+/*si es un ID, no se pueden repeitr los ID*/
+#titulo{
+  /*background-color: black;*/
+  color:white;
+  text-shadow: -2px 9px 7px #000000;
+}
+/*si es una clase, se pueden repetir las clases*/
+.colorRojo{
+  color:red;
+}
+
+.colorAmarillo{
+  color:yellow;
+}
